@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_0DECIIvgEeuWluv3e6Z00g">
+    <contextParameter comment="" name="PostgreSQL_Database_Login" prompt="PostgreSQL_Database_Login?" promptNeeded="false" type="id_String" value="dwh_adm" xmi:id="_0DECIYvgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Schema" prompt="PostgreSQL_Database_Schema?" promptNeeded="false" type="id_String" value="dwh_adm" xmi:id="_0DECIovgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Server" prompt="PostgreSQL_Database_Server?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_0DECI4vgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Port" prompt="PostgreSQL_Database_Port?" promptNeeded="false" type="id_String" value="5432" xmi:id="_0DECJIvgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Password" prompt="PostgreSQL_Database_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:6AU7nX+GbNLSVhURViFsyMH8h0kautvin8qR0hKfceqUw74=" xmi:id="_0DECJYvgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Database" prompt="PostgreSQL_Database_Database?" promptNeeded="false" type="id_String" value="dwh_dev" xmi:id="_0DECJovgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_AdditionalParams" prompt="PostgreSQL_Database_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_0DECJ4vgEeuWluv3e6Z00g"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PRD" xmi:id="_0DECKIvgEeuWluv3e6Z00g">
+    <contextParameter comment="" name="PostgreSQL_Database_Login" prompt="PostgreSQL_Database_Login?" promptNeeded="false" type="id_String" value="dwh_adm" xmi:id="_0DECKYvgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Schema" prompt="PostgreSQL_Database_Schema?" promptNeeded="false" type="id_String" value="dwh_adm" xmi:id="_0DECKovgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Server" prompt="PostgreSQL_Database_Server?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_0DECK4vgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Port" prompt="PostgreSQL_Database_Port?" promptNeeded="false" type="id_String" value="5432" xmi:id="_0DECLIvgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Password" prompt="PostgreSQL_Database_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:uPzM9FwohHHQ40KIzbTyjFkLC4M+JuCW4oBfc35S27rDZNg=" xmi:id="_0DECLYvgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Database" prompt="PostgreSQL_Database_Database?" promptNeeded="false" type="id_String" value="dwh_dev" xmi:id="_0DECLovgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_AdditionalParams" prompt="PostgreSQL_Database_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_0DECL4vgEeuWluv3e6Z00g"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="RCT" xmi:id="_0DECMIvgEeuWluv3e6Z00g">
+    <contextParameter comment="" name="PostgreSQL_Database_Login" prompt="PostgreSQL_Database_Login?" promptNeeded="false" type="id_String" value="dwh_adm" xmi:id="_0DECMYvgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Schema" prompt="PostgreSQL_Database_Schema?" promptNeeded="false" type="id_String" value="dwh_adm" xmi:id="_0DECMovgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Server" prompt="PostgreSQL_Database_Server?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_0DECM4vgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Port" prompt="PostgreSQL_Database_Port?" promptNeeded="false" type="id_String" value="5432" xmi:id="_0DECNIvgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Password" prompt="PostgreSQL_Database_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:VpNZSa/3VOWAxGdyL1uaXv24g4G6HUWwSgsp/0k4BMY7iPI=" xmi:id="_0DECNYvgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_Database" prompt="PostgreSQL_Database_Database?" promptNeeded="false" type="id_String" value="dwh_dev" xmi:id="_0DECNovgEeuWluv3e6Z00g"/>
+    <contextParameter comment="" name="PostgreSQL_Database_AdditionalParams" prompt="PostgreSQL_Database_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_0DECN4vgEeuWluv3e6Z00g"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_3eb58f23-e132-4c63-af47-34172453bbe1"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>r2f5HcuYM62xCT2N2tUikc06fT1+VhrDGAiLqCyO/MC4QCFOeJiDJNyxiXERCVpIih6AYb+3+FAk
+i4uXTdMzKA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_610162e8-9daf-475b-be8c-ba96f34b264f"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>F6+NOm8S0rwchLcb47amKZ2HELElNOCsMcIq1vN6aUZ1jencTHgYuPkGKFI5S5cQzCo4uPQfdymr
+cb1Q9vCG0A==</DigestValue></Reference></SignedInfo><SignatureValue>h5u+nBBzjzv+DtcaA9z2ROpg41QO5fclhHEMNOpLRYKzYao6oZfJr/6vLJ10cTLxCXnJBpJXFmtw
+E61EApTdNNJiIDPvgnvx7rnqvXhKvPpAqkUVLhZ9uhH7oRwNJtY5UoNyvlWLwMBZzSXEHi9CO6/A
+ypTgnfwWh8TEC5f3vwZYE8EVx8F/k/8hV+jzg3alxoguDXG66K1SCMPf4rI9nZfJ2ovwC8D+WQTi
+Y+8HoaqMQcFD9QoOFasH65xW+ISZaavSi13ElJS/XDIijLEPE3bCa+sIRqun9ns4+fzgYHK71RPY
+Cw59nGqP2boTzky9UDJKJmV4XqP2Qo6+NnCs/Q==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_610162e8-9daf-475b-be8c-ba96f34b264f" Target="#_3eb58f23-e132-4c63-af47-34172453bbe1"><Timestamp>2021-03-23 14:05:24</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
