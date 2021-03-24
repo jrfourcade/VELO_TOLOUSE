@@ -104,6 +104,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_0CjEwIvgEeuWluv3e6Z00g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
     "id" : "_e30zcIvgEeuWluv3e6Z00g",
     "version" : "Latest",
     "type" : "property"
@@ -172,15 +176,7 @@
     "version" : "Latest",
     "type" : "schema"
   }, {
-    "id" : "_e30zcIvgEeuWluv3e6Z00g - pistes_station",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
     "id" : "_e30zcIvgEeuWluv3e6Z00g - stations",
-    "version" : "Latest",
-    "type" : "schema"
-  }, {
-    "id" : "_e30zcIvgEeuWluv3e6Z00g - stations_piste",
     "version" : "Latest",
     "type" : "schema"
   } ]
