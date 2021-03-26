@@ -5,6 +5,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_0CjEwIvgEeuWluv3e6Z00g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
     "id" : "VELO_TOULOUSE:_e3SygIvhEeuWluv3e6Z00g",
     "version" : "Latest",
     "type" : "job"
