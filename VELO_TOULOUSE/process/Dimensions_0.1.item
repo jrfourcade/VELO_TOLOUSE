@@ -6,14 +6,14 @@
     <contextParameter comment="" name="PostgreSQL_Database_Database" prompt="PostgreSQL_Database_Database?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="dwh_dev"/>
     <contextParameter comment="" name="PostgreSQL_Database_Login" prompt="PostgreSQL_Database_Login?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="dwh_adm"/>
     <contextParameter comment="" name="PostgreSQL_Database_Port" prompt="PostgreSQL_Database_Port?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="5432"/>
-    <contextParameter comment="" name="PostgreSQL_Database_Password" prompt="PostgreSQL_Database_Password?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_Password" value="enc:system.encryption.key.v1:HGYl3Xx74jK8fRHQDg/gZoKbQDYWFSnNbjj3oXdh37nU2Ts="/>
+    <contextParameter comment="" name="PostgreSQL_Database_Password" prompt="PostgreSQL_Database_Password?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_Password" value="enc:system.encryption.key.v1:rzScGl3B8bkjzp64rqN2PE13IojiUj0YRSzTK9K4wy0+/Jc="/>
   </context>
   <context confirmationNeeded="false" name="RCT">
     <contextParameter comment="" name="PostgreSQL_Database_Login" prompt="PostgreSQL_Database_Login?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="dwh_adm"/>
     <contextParameter comment="" name="PostgreSQL_Database_Schema" prompt="PostgreSQL_Database_Schema?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="dwh_adm"/>
     <contextParameter comment="" name="PostgreSQL_Database_Server" prompt="PostgreSQL_Database_Server?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="localhost"/>
     <contextParameter comment="" name="PostgreSQL_Database_Port" prompt="PostgreSQL_Database_Port?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="5432"/>
-    <contextParameter comment="" name="PostgreSQL_Database_Password" prompt="PostgreSQL_Database_Password?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_Password" value="enc:system.encryption.key.v1:6DUlIgrBvWGZJ5bZILLcZBOoOdHLo4iQLzGnZ9aJqD62j0U="/>
+    <contextParameter comment="" name="PostgreSQL_Database_Password" prompt="PostgreSQL_Database_Password?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_Password" value="enc:system.encryption.key.v1:fqVOuNmyWv3EMS8/X7td7beNdgVMZqMsl7PMQNILQUUe6uc="/>
     <contextParameter comment="" name="PostgreSQL_Database_Database" prompt="PostgreSQL_Database_Database?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="dwh_dev"/>
     <contextParameter comment="" name="PostgreSQL_Database_AdditionalParams" prompt="PostgreSQL_Database_AdditionalParams?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value=""/>
   </context>
@@ -22,7 +22,7 @@
     <contextParameter comment="" name="PostgreSQL_Database_Schema" prompt="PostgreSQL_Database_Schema?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="dwh_adm"/>
     <contextParameter comment="" name="PostgreSQL_Database_Server" prompt="PostgreSQL_Database_Server?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="localhost"/>
     <contextParameter comment="" name="PostgreSQL_Database_Port" prompt="PostgreSQL_Database_Port?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="5432"/>
-    <contextParameter comment="" name="PostgreSQL_Database_Password" prompt="PostgreSQL_Database_Password?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_Password" value="enc:system.encryption.key.v1:ofuSgRRePRp7VaNBZj5au7pj3ELql3LyEioafXzqQ2jmePw="/>
+    <contextParameter comment="" name="PostgreSQL_Database_Password" prompt="PostgreSQL_Database_Password?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_Password" value="enc:system.encryption.key.v1:AuGIpjXn5cbno7IofB2QZnDtY9XUHR0YVc/5FGEOY1JPkoU="/>
     <contextParameter comment="" name="PostgreSQL_Database_Database" prompt="PostgreSQL_Database_Database?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="dwh_dev"/>
     <contextParameter comment="" name="PostgreSQL_Database_AdditionalParams" prompt="PostgreSQL_Database_AdditionalParams?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value=""/>
   </context>
@@ -31,7 +31,7 @@
     <contextParameter comment="" name="PostgreSQL_Database_Schema" prompt="PostgreSQL_Database_Schema?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="dwh_adm"/>
     <contextParameter comment="" name="PostgreSQL_Database_Server" prompt="PostgreSQL_Database_Server?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="localhost"/>
     <contextParameter comment="" name="PostgreSQL_Database_Port" prompt="PostgreSQL_Database_Port?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="5432"/>
-    <contextParameter comment="" name="PostgreSQL_Database_Password" prompt="PostgreSQL_Database_Password?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_Password" value="enc:system.encryption.key.v1:kB7mXL2ekVbAe2LtkoHvIs8n7ok5sovC+9S3JDfzmaosBkc="/>
+    <contextParameter comment="" name="PostgreSQL_Database_Password" prompt="PostgreSQL_Database_Password?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_Password" value="enc:system.encryption.key.v1:y8dZ1QdHvBhrCUqT4sBMot0Nu91nYTOixfaj+hSJJSaSRc0="/>
     <contextParameter comment="" name="PostgreSQL_Database_Database" prompt="PostgreSQL_Database_Database?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value="dwh_dev"/>
     <contextParameter comment="" name="PostgreSQL_Database_AdditionalParams" prompt="PostgreSQL_Database_AdditionalParams?" promptNeeded="false" repositoryContextId="_0CjEwIvgEeuWluv3e6Z00g" type="id_String" value=""/>
   </context>
@@ -77,7 +77,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:VzqlZGQ5shka2UtPQFwp0ycDfuH9+t59VhiDfaUR"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:0Q51HKDGI2aG5i0lUkzWAJgs604fGGj07Yc/rSaN"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -112,7 +112,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:86nN9pyGpmX87APcQvGJHTbkikerk0VvsP3le85r"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:HcyARzQ5oLWTDWx8lGln/O4BMunc/czDMpdMa5Rj"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -426,7 +426,7 @@
     <elementParameter field="TEXT" name="TYPE" show="false" value="POSTGRESQL"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="context.PostgreSQL_Database_Schema"/>
     <elementParameter field="TEXT" name="USER" value="context.PostgreSQL_Database_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:0cl1fikqPbc1APDx0fUB67G3hXeaWEOlTbANZ/8uQe4sJ9A3R3YHHfeLRJhmr8gM/7Y19avnv1KLPRqJJb56Lg=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:Uqn+NYYWI/Z/lf+pDWwTQPtEX/0FtgwwiMO666H9bGxcwapjdsBtcjQ+2JkyCJ1Y00wFTWKLR9COmgLdagN82g=="/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;pistes&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="TRUNCATE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -663,7 +663,7 @@
       <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
     </metadata>
   </node>
-  <node componentName="tFileInputJSON" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="128" posY="96">
+  <node componentName="tFileInputJSON" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="128" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileInputJSON_1"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" show="false" value="_dEq-UIvhEeuWluv3e6Z00g"/>
@@ -766,7 +766,7 @@
       <column defaultValue="" key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
     </metadata>
   </node>
-  <node componentName="tPostgresqlOutput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="576" posY="96">
+  <node componentName="tPostgresqlOutput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="576" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tDBOutput_2"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" show="false" value="_e30zcIvgEeuWluv3e6Z00g"/>
@@ -779,7 +779,7 @@
     <elementParameter field="TEXT" name="TYPE" show="false" value="POSTGRESQL"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="context.PostgreSQL_Database_Schema"/>
     <elementParameter field="TEXT" name="USER" value="context.PostgreSQL_Database_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:Q7wkqLWkUAniv1h5cWjbIlP3l0Re1kIft/7hNjQbTm8LtZA1YN65FgWTH/SUuAuGsmgx8hAsSMZes9durHmGww=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:HESqEt/L/vmQ2Ku+aAPS1g4DcBf4Vn0o1v35YWDuvs30pf0YcbDgM9By4ykj3Gt5Iaz851m8R7VQ9cMEV+wfMw=="/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;stations&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="TRUNCATE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -888,6 +888,8 @@
   <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tFileInputJSON_1" offsetLabelX="0" offsetLabelY="0" source="tFileInputJSON_1" target="tFileInputDelimited_1">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnSubjobOk1"/>
   </connection>
+  <note opaque="true" posX="704" posY="96" sizeHeight="96" sizeWidth="513" text="Alimentation de la table station dans la Database PostgreSQL&#13;&#10;à partir du fichier de données JSON&#13;&#10;https://developer.jcdecaux.com/#/opendata/vls?page=static"/>
+  <note opaque="true" posX="704" posY="256" sizeHeight="96" sizeWidth="513" text="Alimentation de la table pistes dans la Database PostgreSQL&#13;&#10;à partir du fichier de données CSV avec ajout d'un ID&#13;&#10;https://data.toulouse-metropole.fr/explore/dataset/reseau-cyclable-et-vert/information/"/>
   <subjob>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileInputDelimited_1"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
@@ -898,13 +900,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_fc4d53a6-ebd8-43ee-9c67-e9d13f7dc7c1"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>hITARw2ucxlAS6XVEjmUfe6Hy617QC9710pjhuSrK1UsKgpGVv+EEJUb4Wy7OSKcFfqWawKMkequ
-rxLoRgCqKg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_0ada90ff-80d2-4c53-98d1-2092a0a60d94"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>FFgCUh99w/nFrzI91llHqemWzHMZ/eisQrQcHjILK0qGAMoReL9K7SZ7HWu5Oz1dgJRqFqHXwJeI
-L8JoIivnAA==</DigestValue></Reference></SignedInfo><SignatureValue>WljwDS0RxKReFzegnr5JsvCMZ+xojAxxOzf9fiW5kp0F1M/B46vhMPteuNYgUZvj5jy96jVSDTn6
-GlS11FLjVFzWgufeJz7YeO2s5nUwKpjqbPnZYkE2PNFgCmfLyeKWCk6yfXTsLl4HXmjPOthluGf/
-1+8TGUXG8X0NFlWZlfQn1bHho83jpToSAbyb6A8r2cV74OlBBNcIigICnpl3WVY0JtBwWr199TL7
-pZ1XuY6qrsREs+w6RyGur+uWtWSSk+PHLsLtsCdiQt1XCbIZDhGRrmNSrP/mwTJUwhzp39QvCflh
-R+mzZThO9c6KKyU1KjS02n27ptXCavKjM9KhAQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_b872b0e4-3d97-4a72-a0b2-ef2d89c8ae97"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>4GRdL3Y5CwqF2zxq9/qj2IS1PPGf2GhJxHXl4pqSNOQSk6KKM6a3G4qfWGoOdtUWTs+S0RobbjRy
+GT+qeOaNQw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_1537faff-317b-4190-ba4b-f4f53dfa3553"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>+nsL66/9J2+UH/dtcd7F7NkjvaNkIv7wHdTnA2N5MOji2jRY1J2wOVvxC0pnMOkLthcrZC9v/VzL
+lidZp4CL9w==</DigestValue></Reference></SignedInfo><SignatureValue>KEXXfVt2SbjoZuPgR9n9jg+aOqLCsMKrJegIjnm2tgJTN799YBzpPOHklxTVxulGVhiUa3V/szI6
+fp4qUyMZiDrtW7YuITdkkj8FeVRFhuD8ePwUIkKKp8YnssS5oehGcKepFkCO9CFeyr9iii4ZRcjK
+Q17bQY1M2ofddN7KT+tnivmY5vTpQlDKVxPgwoEfY7rzjSnv4GapJ5Ep8gEjaee+9yfyXoOCLVA8
+QtkI0FwbUEbqcIEedFgAugyMAnb94bju2v2iKQaGbZ2DA4VZRAUiejlSPplu347KLhXrHfS5F8U4
+VFvUgbmp+ow4oa2JtWOl57qoKqJnCfdf1EwWyQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -926,4 +928,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_0ada90ff-80d2-4c53-98d1-2092a0a60d94" Target="#_fc4d53a6-ebd8-43ee-9c67-e9d13f7dc7c1"><Timestamp>2021-03-24 15:25:46</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_1537faff-317b-4190-ba4b-f4f53dfa3553" Target="#_b872b0e4-3d97-4a72-a0b2-ef2d89c8ae97"><Timestamp>2021-03-26 08:39:36</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
