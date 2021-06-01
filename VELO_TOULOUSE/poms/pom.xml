@@ -16,6 +16,7 @@
     <module>jobs/process/job_principal_0.1</module>
     <module>jobs/process/newj_0.1</module>
     <module>jobs/process/newjob_0.1</module>
+    <module>jobs/joblets/jttjtj_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
