@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_BpreQYvgEeuWluv3e6Z00g" label="VELO_TOULOUSE" language="java" technicalLabel="VELO_TOULOUSE" author="_BpsFUIvgEeuWluv3e6Z00g" productVersion="Talend Cloud API Services Platform-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/jrfourcade/VELO_TOULOUSE.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_BpreQYvgEeuWluv3e6Z00g" label="VELO_TOULOUSE" language="java" technicalLabel="VELO_TOULOUSE" author="_BpsFUIvgEeuWluv3e6Z00g" productVersion="Talend Cloud Real-Time Big Data Platform-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/jrfourcade/VELO_TOULOUSE.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_ByifUIvgEeuWluv3e6Z00g" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_BpsFUIvgEeuWluv3e6Z00g" login="jean-romain.fourcade@trial17986.eu.talend.com" firstName="Jean Romain" lastName="Fourcade" type="DQ"/>
   <TalendProperties:User xmi:id="_CE7bsJkZEeuO25wi_Hm87g" login="jerome.barrat@trial17986.eu.talend.com" firstName="JEROME" lastName="BARRAT" type="DQ"/>
+  <TalendProperties:User xmi:id="_wsEE4MK5EeuAhIONuVPcwA" login="dabass@viseocom" firstName="vincent" lastName="legouic" type="DQ"/>
+  <TalendProperties:User xmi:id="_wsEE4cK5EeuAhIONuVPcwA" login="dabass@viseocom" firstName="vincent" lastName="legouic" type="DQ"/>
 </xmi:XMI>
