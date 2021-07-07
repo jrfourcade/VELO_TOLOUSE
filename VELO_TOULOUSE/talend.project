@@ -7,4 +7,6 @@
   <TalendProperties:User xmi:id="_CE7bsJkZEeuO25wi_Hm87g" login="jerome.barrat@trial17986.eu.talend.com" firstName="JEROME" lastName="BARRAT" type="DQ"/>
   <TalendProperties:User xmi:id="_wsEE4MK5EeuAhIONuVPcwA" login="dabass@viseocom" firstName="vincent" lastName="legouic" type="DQ"/>
   <TalendProperties:User xmi:id="_wsEE4cK5EeuAhIONuVPcwA" login="dabass@viseocom" firstName="vincent" lastName="legouic" type="DQ"/>
+  <TalendProperties:User xmi:id="_bAHLUN9AEeubMtHgnMHYew" login="jerome.barrat@viseocom" firstName="Jérôme" lastName="Barrat" type="DQ"/>
+  <TalendProperties:User xmi:id="_bAHLUd9AEeubMtHgnMHYew" login="olivier.vacaresse@viseocom" firstName="Olivier" lastName="Vacaresse" type="DQ"/>
 </xmi:XMI>
